@@ -14,4 +14,4 @@ An autoclicker for Windows with customizable clicking speed.
 - done
 
 ## Support
-For any questions or concerns, join discord: [https://discord.gg/kDkadZ9EbT](https://discord.gg/kDkadZ9EbT)
+For any questions or concerns, join discord: [https://dsc.gg/ravenclicker](https://discord.gg/kDkadZ9EbT)
