@@ -1,4 +1,4 @@
-# RavenClicker
+# ClickOptimizer
 
 An autoclicker for Windows with customizable clicking speed.
 
