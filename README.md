@@ -3,9 +3,8 @@
 An autoclicker for Windows with customizable clicking speed.
 
 ## Features
-- any cps be able to click but under 25 since 2.0.0
-- shift disable
-- keybinds
+- randomisation
+- works on any game. JUST EDIT 1 WORD
 
 ## How to Use (order from top to bottom)
 - Download exe from releases page
